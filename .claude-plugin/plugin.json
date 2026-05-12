@@ -1,0 +1,17 @@
+{
+  "name": "extras",
+  "description": "Claude Code skills bundle — code-review, time-estimation, dev-velocity, and defect-density.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Zach Gardner",
+    "email": "locriani@me.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "code-review",
+    "time-estimation",
+    "dev-velocity",
+    "defect-density"
+  ]
+}
